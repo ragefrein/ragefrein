@@ -28,6 +28,5 @@
 
 ### 🌐 Connect With Me
 - Instagram: [@freinlodo](https://instagram.com/)
-- Portfolio: (opsional)
 
 ---
