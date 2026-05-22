@@ -3,7 +3,7 @@
   <h1>Halo! Saya Yosephus Freinademetz Carol Lodo (Carol)</h1>
   <h3>Mahasiswa Informatika | Peneliti AI & ML | Web Developer</h3>
   
-  <img src="![49cdd838e8c6d7fe5e2dd55deead5567](https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b)" width="600" alt="Coding Aesthetic GIF" style="border-radius: 15px; margin-top: 15px; margin-bottom: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" width="600" alt="Coding Aesthetic GIF"/>
 </div>
 
 ---
