@@ -1,67 +1,78 @@
-<h1 align="center">Hi 👋, I'm Frein Lodo</h1>
-<h3 align="center">A passionate Web & Mobile Developer from Indonesia</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Developer;Building+with+React+%26+Django;Zero+Budget%2C+Infinite+Creativity" alt="Typing Effect" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmNtc3I0M2RsZzV0Ymd0N29pZTh6Znd4cmVwY216Y290YmN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgTR3UQ9XA3vyCg8Qb/giphy.gif" width="300" alt="Coding GIF">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
+  <h1>Halo! Saya Yosephus Freinademetz Carol Lodo (Carol)</h1>
+  <h3>Mahasiswa Informatika | Peneliti AI & ML | Web Developer</h3>
+  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZDZ2YnN1Z3BzcXl4cmhwMzM3dWVwcmtzbGN3MzZ3dnZ3Z3V4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Aesthetic GIF" style="border-radius: 15px; margin-top: 15px; margin-bottom: 15px;"/>
+</div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Tentang Saya
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🌱 Currently learning: <b>React.js, Next.js, Django, PostgreSQL</b></li>
-        <li>🔭 Working on: <a href="#"><b>Attendance System with Face Recognition</b></a></li>
-        <li>🎯 Focus: Web dev, tech gadgets, service business</li>
-        <li>⚡ Fun fact: I love building real projects with zero budget!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=ragefrein&theme=tokyonight&column=2&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
-    </td>
-  </tr>
-</table>
+Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023). Saya memiliki ketertarikan yang mendalam terhadap riset *Artificial Intelligence*, pengembangan perangkat lunak modern, dan analisis data).
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
+**Machine Learning & Data Science**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,django,postgres,mysql,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas&perline=10" />
   </a>
 </p>
+
+**Web Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10" />
+  </a>
+</p>
+
+**System, Networking & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma&perline=10" />
+  </a>
+</p>
+
+---
+
+### 🔬 Proyek & Riset Terkini
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragefrein&show_icons=true&theme=tokyonight&layout=compact" height="150" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragefrein&theme=tokyonight" height="150" alt="Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME_GITHUB_KAMU>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<USERNAME_GITHUB_KAMU>&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragefrein&layout=compact&theme=tokyonight&langs_count=7" height="150" alt="Top Languages" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME_GITHUB_KAMU>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 📫 Mari Terhubung!
 
-<p align="center">
-  <a href="https://instagram.com/freinlodo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+<div align="left">
+  <a href="mailto:email_kamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/linkedin_kamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/instagram_kamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ragefrein/count.svg" alt="Visitor Counter" />
-</p>
+<br/>
+<div align="center">
+  <i>"Selalu belajar, selalu berkembang."</i>
+</div>
