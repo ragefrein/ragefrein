@@ -1,15 +1,19 @@
 <div align="center">
-  <h1>Halo! Saya Yosephus Freinademetz Carol Lodo (Carol)</h1>
-  <h3>Mahasiswa Informatika | Peneliti AI & ML | Web Developer</h3>
+  <h1>Hey there! I'm Yosephus Freinademetz Carol Lodo (Carol) ✌️</h1>
+  <h3>Informatics Student | AI & ML Enthusiast | Web & Mobile Dev</h3>
   
   <img src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" width="600" alt="Coding Aesthetic GIF"/>
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 A Little Bit About Me
 
-Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023). Saya memiliki ketertarikan yang mendalam terhadap riset *Artificial Intelligence*, pengembangan perangkat lunak modern, dan analisis data).
+I'm an Undergrad Informatics student at **Universitas Gunadarma** (Batch 2023). I'm super into Artificial Intelligence, modern software development, and making sense of data. 
+
+- 💻 **My Hobbies:** When I'm not doing assignments, I usually spend my time coding stuff related to **Data Science, Mobile Apps, and Web Development**. 
+- 🎮 **Beyond Coding:** I'm a huge gamer and I absolutely love tinkering with computers (yep, I'm that guy who loves to *oprek* PC hardware and systems).
+- 🧠 **Currently Learning:** Right now, I'm diving deep into **Image Processing**. I'm also geeking out over **Computer Architecture and Computer Networks** to understand how things work under the hood.
 
 ---
 
@@ -22,7 +26,7 @@ Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023
   </a>
 </p>
 
-**Web Development**
+**Web & Mobile Development**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10" />
@@ -35,10 +39,6 @@ Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma&perline=10" />
   </a>
 </p>
-
----
-
-### 🔬 Proyek & Riset Terkini
 
 ---
 
@@ -57,7 +57,7 @@ Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023
 
 ---
 
-### 📫 Mari Terhubung!
+### 📫 Let's Connect!
 
 <div align="left">
   <a href="mailto:email_kamu@gmail.com">
@@ -73,5 +73,5 @@ Saya adalah mahasiswa S1 Informatika di **Universitas Gunadarma** (Angkatan 2023
 
 <br/>
 <div align="center">
-  <i>"Selalu belajar, selalu berkembang."</i>
+  <i>"Code, tweak, play, repeat."</i>
 </div>
