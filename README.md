@@ -26,10 +26,17 @@ I'm an Undergrad Informatics student at **Universitas Gunadarma** (Batch 2023). 
   </a>
 </p>
 
-**Web & Mobile Development**
+**Web Development**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=10" />
+  </a>
+</p>
+
+**Mobile Development & Cloud**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,firebase,gcp&perline=10" />
   </a>
 </p>
 
