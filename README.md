@@ -52,12 +52,17 @@ I'm an Undergrad Informatics student. I'm super into Artificial Intelligence, mo
 
 ---
 
-### 📊 GitHub Activity & Trophies
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ragefrein&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ragefrein's Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragefrein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragefrein&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragefrein&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
