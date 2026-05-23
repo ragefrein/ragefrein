@@ -55,20 +55,8 @@ I'm an Undergrad Informatics student. I'm super into Artificial Intelligence, mo
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragefrein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragefrein&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragefrein&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragefrein&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragefrein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragefrein&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ---
