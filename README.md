@@ -55,7 +55,6 @@ I'm an Undergrad Informatics student. I'm super into Artificial Intelligence, mo
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragefrein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragefrein&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
