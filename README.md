@@ -15,7 +15,7 @@
 I'm an Undergrad Informatics student. I'm super into Artificial Intelligence, modern software development, and making sense of data. 
 
 - 💻 **My Hobbies:** When I'm not doing assignments, I usually spend my time coding stuff related to **Data Science, Mobile Apps, and Web Development**. 
-- 🎮 **Beyond Coding:** I'm a huge gamer and I absolutely love tinkering with computers (yep, I'm that guy who loves to *oprek* PC hardware and systems).
+- 🎮 **Beyond Coding:** I'm a huge gamer and I absolutely love tinkering with computers (yep, I'm that guy who loves PC hardware and systems so much).
 - 🧠 **Currently Learning:** Right now, I'm diving deep into **Image Processing**. I'm also geeking out over **Computer Architecture and Computer Networks** to understand how things work under the hood.
 
 ---
