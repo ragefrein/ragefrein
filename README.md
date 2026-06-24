@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there! I'm Yosephus Freinademetz Carol Lodo (Carol) ✌️</h1>
+  <h1>Hey there! I'm Rage ✌️</h1>
   <h3>Informatics Student | AI & ML Enthusiast | Web & Mobile Dev</h3>
   
   <img src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" width="600" alt="Coding Aesthetic GIF"/>
